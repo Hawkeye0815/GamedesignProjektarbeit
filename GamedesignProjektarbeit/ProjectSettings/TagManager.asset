@@ -50,6 +50,3 @@ TagManager:
   - name: Enemy
     uniqueID: 2440076849
     locked: 0
-  - name: Front
-    uniqueID: 547059897
-    locked: 0

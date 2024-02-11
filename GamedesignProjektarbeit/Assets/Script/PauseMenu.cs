@@ -23,12 +23,4 @@ public class PauseMenu : MonoBehaviour
     {
         Application.Quit();
     }
-    public void TimeStop()
-    {
-        Time.timeScale = 0f;
-    }
-    public void TimeContinue()
-    {
-        Time.timeScale = 1f;
-    }
 }
