@@ -75,7 +75,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1285767631
-  m_SortingLayer: 2
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 4c1d60ea611f8964fb438beae3d9751c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -149,7 +149,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 055a461ad25c1fc47bc26a3a79f8f76b, type: 2}
+    - {fileID: 11400000, guid: 780452f21f0da0d4cae3b2cafbd232fa, type: 2}
 --- !u!70 &3601837440534593784
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
